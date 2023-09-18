@@ -1,0 +1,5 @@
+__pycahe__/*
+node_modules/*
+.vscode/*
+*.json
+*.pyc
