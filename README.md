@@ -6,4 +6,5 @@ This repo will compose projects in different domains done using the Python Progr
 Grouping them here is a matter of convinience.
 
 [IoT Shop]() - an online store dealing in IoT hobbyist electronics.
+
 [tcp_chat](https://github.com/MwangiGregory/python_projects/tree/main/tcp_chat) - a simple command line based chat application.
