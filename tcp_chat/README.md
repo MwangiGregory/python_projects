@@ -6,6 +6,8 @@ I have utilized the sockets module which comes inbuilt with python.
 
 ## Usage
 
+This has only been tested on Windows.
+
 1. Ensure you have python 3.8+ installed
 2. Download the scripts on a computer and note their locations.
 3. Locate the server script and run this command:
@@ -17,5 +19,5 @@ py server.py
 py client.py
 ```
 5. A communication channel is now open between the two scripts. Type anything into either of the terminals and press enter. The text should appear in the corresponding script.
-6. To close, press CTRL + C on the client script first, then the client script.
+6. To close, press CTRL + C on the client script first, then the server script.
 
